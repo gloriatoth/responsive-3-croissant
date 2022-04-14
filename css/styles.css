@@ -1,3 +1,32 @@
 body {
-  background-color: lightpink;
+  background-color: rgb(255, 231, 208);
+  text-align: center;
+  max-width: 800px;
+  margin: auto;
+}
+h1 {
+  font-size: 48px;
+  color: goldenrod;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  color: rgb(74, 74, 74);
+  margin-bottom: 40px;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+a,
+.link-menu {
+  text-decoration: none;
+  color: brown;
+}
+
+.link-menu {
+  margin: auto 15px;
 }
